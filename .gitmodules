@@ -1,0 +1,3 @@
+[submodule "ChemistryDeathRace-api"]
+	path = ChemistryDeathRace-api
+	url = https://github.com/tom-sartori/ChemistryDeathRace-api
