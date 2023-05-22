@@ -7,3 +7,6 @@
 [submodule "ChemistryDeathRace-adm"]
 	path = ChemistryDeathRace-adm
 	url = https://github.com/tom-sartori/ChemistryDeathRace-adm
+[submodule "ChemistryDeathRace-ui"]
+	path = ChemistryDeathRace-ui
+	url = https://github.com/tom-sartori/ChemistryDeathRace-ui
